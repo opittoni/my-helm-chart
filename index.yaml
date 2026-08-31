@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mon-application:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-08-31T15:43:49.780586+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 300b51443d181a087e073523c050d4d76f409f69ffabc21133a79983d1622dc9
+    name: mon-application
+    type: application
+    urls:
+    - https://github.com/opittoni/my-chart.git/mon-application-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-08-31T15:43:49.780146+02:00"
